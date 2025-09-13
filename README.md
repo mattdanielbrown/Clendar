@@ -1,5 +1,5 @@
 [![SwiftLint](https://github.com/vinhnx/Clendar/actions/workflows/swiftlint.yml/badge.svg)](https://github.com/vinhnx/Clendar/actions/workflows/swiftlint.yml)
-
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/vinhnx/Clendar)
 ---
 
 Hi everyone,
